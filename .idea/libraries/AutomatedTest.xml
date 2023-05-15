@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AutomatedTest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/AutomatedTest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
